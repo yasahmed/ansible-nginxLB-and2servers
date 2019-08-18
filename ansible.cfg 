@@ -1,2 +1,2 @@
 [defaults]
-inventory = ex/Users/mac/Documents/ansible/development.txt
+inventory = ./development.txt
